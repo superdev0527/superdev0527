@@ -12,6 +12,8 @@
     <br>
     <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1387399c8c582387cb47287a3fc064282cbf0e29b8baefacd59fbd6e52758e62/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f5368696e672d486f2f636f756e742e737667"><img src="https://camo.githubusercontent.com/1387399c8c582387cb47287a3fc064282cbf0e29b8baefacd59fbd6e52758e62/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f5368696e672d486f2f636f756e742e737667" alt="Visitor Count" data-canonical-src="https://profile-counter.glitch.me/superdev0527/count.svg" style="max-width: 100%;"></a></p>
 </div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparklingCoolDev)](https://github.com/SparklingCoolDev/github-readme-stats)
+![DevSCNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparklingCoolDev&hide=contribs,prs)
 
 <h3 align="left">Languages and Tools:</h3>
 
