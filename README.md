@@ -21,4 +21,4 @@
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superdev0527)](https://github.com/superdev0527/github-readme-stats)
-![DevSCNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=superdev0527&hide=contribs,prs)
+![DevSCNinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparklingCoolDev&hide=contribs,prs)
